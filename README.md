@@ -8,7 +8,7 @@ Install OpenManus @ https://github.com/mannaandpoem/OpenManus/blob/main/README_z
 
 Anaconda
 
-Python 3.2 or above
+Python 3.10 or above
 
 # Version
 
